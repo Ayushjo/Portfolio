@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import Portfolio from "./pages/Portfolio";
-import { Toaster } from "./components/ui/toaster";
+import { Toaster } from "./components/ui/Toaster";
 
 function App() {
   return (
